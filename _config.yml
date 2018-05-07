@@ -19,9 +19,9 @@ rss: default
 menu:
   Home: /
   Archives: /archives/
-  # Tags: /tags
-  # Categories: /categories
-  # About: /about
+  Tags: /tags
+  Categories: /categories
+  About: /about
 
 # ===========================================
 # Theme Settings
@@ -48,13 +48,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: wizard@pursuetao.com
   stack-overflow:
   twitter:
   facebook:
   linkedin:
   google:
-  github:
+  github: https://github.com/pursueTAO
   weibo:
   zhihu:
   douban:
